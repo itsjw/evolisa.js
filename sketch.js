@@ -44,7 +44,7 @@ let runButton;
 var isRunning = false;
 
 function preload() {
-  img = loadImage("assets/mona_lisa_129x192.jpg");
+  img = loadImage("assets/girl_in_profile_120x145.jpg");
 }
 
 function setup() {
